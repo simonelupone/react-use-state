@@ -4,7 +4,6 @@ import Main from './components/Main';
 
 const App = () => {
 
-
   const languages = [
     {
       id: 1,
